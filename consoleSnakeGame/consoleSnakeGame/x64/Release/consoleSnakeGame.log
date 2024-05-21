@@ -1,0 +1,8 @@
+﻿  SnakeGame.cpp
+C:\Microsoft VIsual Studio\CPP_Projects\consoleSnakeGame\consoleSnakeGame\SnakeGame.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  consoleSnakeGame.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 130 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  consoleSnakeGame.vcxproj -> C:\Microsoft VIsual Studio\CPP_Projects\consoleSnakeGame\x64\Release\consoleSnakeGame.exe
