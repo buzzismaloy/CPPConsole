@@ -1,8 +1,0 @@
-﻿  Field.cpp
-  Snake.cpp
-C:\Microsoft VIsual Studio\CPP_Projects\consoleSnakeGame\consoleSnakeGame\Snake.cpp(60,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  SnakeGame.cpp
-C:\Microsoft VIsual Studio\CPP_Projects\consoleSnakeGame\consoleSnakeGame\SnakeGame.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  consoleSnakeGame.cpp
-  Generating Code...
-  consoleSnakeGame.vcxproj -> C:\Microsoft VIsual Studio\CPP_Projects\consoleSnakeGame\x64\Debug\consoleSnakeGame.exe
