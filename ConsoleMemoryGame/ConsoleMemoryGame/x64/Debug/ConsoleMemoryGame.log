@@ -1,3 +1,0 @@
-﻿  MemoryGame.cpp
-D:\MICROSOFT_VS\VS_SOURCE\REPOS\ConsoleMemoryGame\ConsoleMemoryGame\MemoryGame.cpp(45,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ConsoleMemoryGame.vcxproj -> D:\MICROSOFT_VS\VS_SOURCE\REPOS\ConsoleMemoryGame\x64\Debug\ConsoleMemoryGame.exe
